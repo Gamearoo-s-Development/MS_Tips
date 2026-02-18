@@ -23,7 +23,7 @@ BepInEx plugin for **Megastore Simulator** that adds **customer tipping** (extra
 
 ## Prerequisites
 
-- BepInEx installed in the game folder:
+- BepInEx installed in the game folder: [Tobey's BepInEx Pack for Megastore Simulator](https://www.nexusmods.com/megastoresimulator/mods/2)
 	- `G:\SteamLibrary\steamapps\common\Megastore Simulator`
 - .NET SDK installed (`dotnet` CLI).
 

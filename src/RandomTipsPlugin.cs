@@ -9,7 +9,7 @@ public sealed class RandomTipsPlugin : BaseUnityPlugin
 {
     private const string PluginGuid = "com.gamearoo.megastore.randomtips";
     private const string PluginName = "Megastore Checkout Tipping";
-    private const string PluginVersion = "1.2.0";
+    private const string PluginVersion = "1.0.0";
 
     private ConfigEntry<int>? _minTipAmount;
     private ConfigEntry<int>? _maxTipAmount;
